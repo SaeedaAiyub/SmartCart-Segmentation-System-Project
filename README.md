@@ -102,16 +102,6 @@ The resulting customer segments can help SmartCart:
 - **Product Recommendations:** Understand product preferences across different customer groups.
 - **Marketing Optimization:** Develop suitable discount and promotional strategies for different segments.
 
-## Project Structure
-
-```text
-SmartCart-Clustering-System/
-│
-├── SmartCart_Clustering.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
 
 ## Key Learnings
 
